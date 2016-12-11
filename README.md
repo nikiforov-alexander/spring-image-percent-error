@@ -8,3 +8,5 @@ It is Ok.
 You are so kind.
 
 And one more line here.
+
+Some new changes, performed on master
